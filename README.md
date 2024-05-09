@@ -1,14 +1,18 @@
+<h1 align="center">Airline Review Exploratory Data Analysis</h1>
+  <h3></h3>
 
-# Airline Review Exploratory Data Analysis
+</div>
 
-This airline review EDA project aims to uncover insights from customer feedback and ratings. The project utilizes web scraping techniques which are employed to gather review data.
+<br/>
 
+<div align="center">
+  <a href="https://github.com/AndrewKim2807"><img alt="My Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
+  <a href="https://github.com/AndrewKim2807/Music-Recommendation-System"><img alt="License" src="https://img.shields.io/badge/License-MIT-red"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></a>
+</div>
 
+<br/>
 
+![Thumbnail]()
 
-![Logo](https://th.bing.com/th/id/R.5643fba8bed1a2eeda244d7e3d1727d6?rik=t8ZwQmjC7MPv%2fg&riu=http%3a%2f%2fairplanes.itsabouttravelling.com%2fwp-content%2fuploads%2f2017%2f08%2fg-viie-british-airways-boeing-777-200er-04.jpg&ehk=P9Q2dCe%2f%2fXiswBO%2fedjv3okLuIPd9yBbWLoOe%2btg6cs%3d&risl=1&pid=ImgRaw&r=0)
-
-
-## Source
-
-This project utilizes from the website: https://www.airlinequality.com/airline-reviews/british-airways
