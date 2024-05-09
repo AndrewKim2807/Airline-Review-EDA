@@ -14,5 +14,5 @@
 
 <br/>
 
-![Thumbnail]()
+![Thumbnail](https://github.com/AndrewKim2807/Airline-Review-EDA/blob/main/Airline%20Review%20EDA.png)
 
