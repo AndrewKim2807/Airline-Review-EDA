@@ -16,3 +16,8 @@
 
 ![Thumbnail](https://github.com/AndrewKim2807/Airline-Review-EDA/blob/main/Airline%20Review%20EDA.png)
 
+## Features
+- Data Collection: Utilizes web scraping techniques to gather the latest airline reviews from various online platforms.
+- Data Cleaning: Implements preprocessing methods to prepare the dataset for analysis, removing any inconsistencies or irrelevant information.
+- Data Visualization: Employs a range of graphical data accessible and comprehensible.
+- Statistical Analysis: Applies statistical models to draw meaningful insights and identify patterns within the review data.
