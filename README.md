@@ -1,5 +1,5 @@
 <h1 align="center">Airline Review Exploratory Data Analysis</h1>
-  <h3>Associated with British Airways</h3>
+  <h3 align="center">Associated with British Airways</h3>
 
 </div>
 
