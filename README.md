@@ -22,6 +22,6 @@
 - Data Visualization: Employs a range of graphical data accessible and comprehensible.
 - Statistical Analysis: Applies statistical models to draw meaningful insights and identify patterns within the review data.
 
-## Demo
+## Demo Review on British Airways
 ![Demo 2](https://github.com/AndrewKim2807/Airline-Review-EDA/blob/main/demo%20output%202.png)
 ![Demo 1](https://github.com/AndrewKim2807/Airline-Review-EDA/blob/main/demo%20output%201.png)
